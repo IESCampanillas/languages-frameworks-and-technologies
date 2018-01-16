@@ -1,7 +1,7 @@
 # Languages, frameworks and technologies
 
-<img src="img/linuxlogo.jpg">
-<img src="img/logodebian.png">
+<img src="img/linuxlogo.jpg" height="150px">
+<img src="img/logodebian.png" height="150px">
 <img src="img/android.png">
 <img src="img/windows.jpg">
 <img src="img/javalogo.jpg">
